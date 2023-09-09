@@ -1,0 +1,12 @@
+.FilterControls{
+    min-height: 250px;
+    background: #e7cfcf;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 0;
+    .filterControlsContainer {
+        width: 250px;
+        padding: 10px;
+    }
+}

@@ -1,0 +1,15 @@
+.Cards {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.totalCount {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}

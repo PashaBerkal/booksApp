@@ -1,0 +1,16 @@
+.Card {
+    width: 200px;
+    min-height: 400px;
+    background: #b79a9a;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+    border: 16px;
+
+    img {
+        margin-top: 5px;
+        width: 90%;
+        height: 80%;
+    }
+}
